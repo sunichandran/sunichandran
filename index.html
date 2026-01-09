@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sunitha's Resume</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <div class="print-controls">
+        <button onclick="window.print()">🖨️ Print / Save as PDF</button>
+    </div>
+
+    <div class="resume-container">
+        <header>
+            <h1>Sunitha Chandamarakshan</h1>
+            <h2 class="role-title">Aspiring Backend & Machine Learning Engineer</h2>
+            <div class="contact-info">
+                <span>📍 Location: Tampa, FL</span>
+                <span>📧 sunichandran@gmail.com</span>
+                <span><a href="https://www.linkedin.com/in/sunithachandamarakshan/">🔗 LinkedIn</a></span>
+                <span><a href="https://github.com/sunichandran">🐙 GitHub</a></span>
+            </div>
+        </header>
+
+        <section class="summary">
+            <h3>Professional Summary</h3>
+            <p>
+                Result-oriented <strong>Program Manager</strong> transitioning into <strong>Backend Engineering and
+                    Machine Learning</strong>. Leveraging a strong foundation in <strong>Python</strong> and
+                <strong>Data Analysis</strong>, combined with 15 years of experience in managing complex technical
+                programs. Passionate about building scalable systems and deploying ML models to solve real-world
+                problems. Proven track record of cross-functional collaboration and data-driven decision-making, now
+                seeking to apply this disciplined approach to software development and engineering challenges.
+            </p>
+        </section>
+
+        <section class="skills">
+            <h3>Technical Skills</h3>
+            <div class="skills-grid">
+                <div class="skill-category">
+                    <h4>Languages</h4>
+                    <p>Python, SQL, Java/C++</p>
+                </div>
+                <div class="skill-category">
+                    <h4>Machine Learning</h4>
+                    <p>TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, NLP, Computer Vision</p>
+                </div>
+                <div class="skill-category">
+                    <h4>Backend Development</h4>
+                    <p>FastAPI, Flask, Django, REST APIs, Microservices</p>
+                </div>
+                <div class="skill-category">
+                    <h4>Data & Databases</h4>
+                    <p>PostgreSQL, MongoDB, Visualization (Matplotlib/Seaborn)</p>
+                </div>
+                <div class="skill-category">
+                    <h4>Tools & DevOps</h4>
+                    <p>Git/GitHub, Docker, AWS/GCP, CI/CD, Jupyter</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="projects">
+            <h3>Technical Projects</h3>
+
+            <div class="project-item">
+                <div class="project-header">
+                    <h4>Delivery Forecasting API</h4>
+                    <span class="tech-stack">fastapi, uvicorn, pandas, numpy, pydantic</span>
+                </div>
+                <p class="project-summary"><em>The Delivery Forecasting API exposes machine-learning-powered endpoints
+                        that consume project metadata, resourcing signals and execution history to return probabalistic
+                        forecasts for delivery dates, budget ranges, and risk indicators, enabling downstream systems to
+                        embed forecasting intelligence at scale.</em></p>
+                <ul>
+                    <li><strong>Delivery Forecast:</strong> Estimates project duration based on type, complexity, and
+                        team size.</li>
+                    <li><strong>Risk Assessment:</strong> Categorizes projects into Low, Medium, or High risk.</li>
+                    <li><strong>Cost Estimation:</strong> Provides a min/max cost range.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section class="experience">
+            <h3>Professional Experience</h3>
+
+            <div class="job-item">
+                <div class="job-header">
+                    <h4>Senior Advisor - IT Project Management</h4>
+                    <span class="company">Evernorth Health Services</span>
+                    <span class="dates">January 2023 - Present</span>
+                </div>
+                <ul>
+                    <li><strong>Enterprise Platform Modernization:</strong> Spearheaded the migration of application
+                        patterns from PCF to AWS, employing diverse configurations (EKS, Redis, MongoAtlas, Kafka) and
+                        delivering shared <strong>Kubernetes</strong> capabilities for enterprise-wide adoption.</li>
+                    <li><strong>Cloud Architecture Strategy:</strong> Partnered with AWS to execute Experience-Based
+                        Acceleration (EBA) workshops, reducing migration timelines by <strong>30%</strong> and directly
+                        contributing to strategic technological investments.</li>
+                    <li><strong>API Security & Governance:</strong> Led the onboarding of <strong>NoName
+                            Security</strong> for continuous API telemetry and discovery. Collaborated with Enterprise
+                        Architects to define architecture standards and ensured operational readiness of security
+                        infrastructure.</li>
+                </ul>
+            </div>
+
+            <div class="job-item">
+                <div class="job-header">
+                    <h4>Senior Advisor - IT Project Management</h4>
+                    <span class="company">Cigna Healthcare</span>
+                    <span class="dates">December 2019 - January 2023</span>
+                </div>
+                <ul>
+                    <li><strong>Infrastructure Modernization:</strong> Directed a multidisciplinary team in a strategic
+                        overhaul of Product Health, focusing on <strong>Technical Debt reduction</strong>, refactoring,
+                        and architecture investment, resulting in millions of dollars in savings.</li>
+                    <li><strong>Release Train Engineering:</strong> Led the release train for enterprise-wide
+                        <strong>RHEL</strong> (v6 to v8) and <strong>Fuse Middleware</strong> (Fabric 6.3 to OpenShift
+                        Fuse 7) migrations, coordinating complex dependencies across middleware and Linux teams.</li>
+                    <li><strong>Innovation Leadership:</strong> Co-led the <strong>iNetwork</strong> program, a
+                        grassroots innovation marketplace fostering intrapreneurship and idea prototyping within the
+                        organization.</li>
+                </ul>
+            </div>
+
+            <div class="job-item">
+                <div class="job-header">
+                    <h4>Associate Project Manager</h4>
+                    <span class="company">Dynamic Biz Solutions</span>
+                    <span class="dates">August 2015 - June 2018</span>
+                </div>
+                <ul>
+                    <li><strong>Agile Transformation:</strong> Spearheaded the development of a custom inquiry tool,
+                        enhancing operational efficiency by <strong>40%</strong> by transitioning the team from
+                        Waterfall to <strong>Agile methodologies</strong>.</li>
+                    <li><strong>SDLC Management:</strong> Orchestrated cross-functional teams (Dev, QA, BA) to deliver
+                        projects ahead of schedule and under budget while implementing risk management strategies that
+                        reduced system downtimes by <strong>15%</strong>.</li>
+                </ul>
+            </div>
+
+            <div class="job-item">
+                <div class="job-header">
+                    <h4>Systems Analyst / Software Engineer</h4>
+                    <span class="company">Tech Mahindra</span>
+                    <span class="dates">November 2002 - February 2009</span>
+                </div>
+                <ul>
+                    <li><strong>Mainframe & Web Services:</strong> Supported mission-critical Auto Applications for
+                        State Farm Insurance, working with <strong>legacy systems (COBOL, DB2, JCL)</strong> and
+                        modernizing web interfaces using <strong>IBM Websphere</strong>.</li>
+                    <li><strong>System Conversion:</strong> Executed the consolidation of three legacy systems into a
+                        unified platform, leveraging broad engineering skills from backend logic to frontend forms.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section class="education">
+            <h3>Education</h3>
+            <ul>
+                <li><strong>Applied Machine Learning and AI</strong> - [eCornell University] <em>(Feb 2025 - Jun
+                        2025)</em></li>
+                <li><strong>Artificial Intelligence: Implications for Business Strategy</strong> - [MIT Professional
+                    Education] <em>(2024)</em></li>
+                <li><strong>Master of Business Administration (MBA)</strong>, Finance - [Birla Institute of Technology
+                    and Science, Pilani]</li>
+                <li><strong>Bachelor of Science</strong>, Computer Science & Applications - [Osmania University]</li>
+            </ul>
+        </section>
+
+        <section class="certifications">
+            <h3>Certifications</h3>
+            <ul>
+                <li>SAFe Advanced Scrum Master and Release train engineer</li>
+                <li>AWS Certified Cloud Practitioner</li>
+                <li>AWS Trainings: AWS Security Engineering, AWS Developer, Planning and Designing Databases on AWS,
+                    Generative AI Essentials on AWS</li>
+                <li>Microsoft Certified: Azure Fundamentals, AI Fundamentals</li>
+            </ul>
+        </section>
+    </div>
+
+</body>
+
+</html>

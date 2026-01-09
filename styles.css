@@ -1,0 +1,190 @@
+:root {
+    --primary-color: #2c3e50;
+    --text-color: #333;
+    --secondary-text: #666;
+    --accent-color: #3498db;
+    --bg-color: #f9f9f9;
+    --resume-bg: #ffffff;
+    --border-color: #e0e0e0;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    line-height: 1.6;
+    color: var(--text-color);
+    background-color: var(--bg-color);
+    padding: 20px;
+}
+
+/* Print Controls */
+.print-controls {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.print-controls button {
+    background-color: var(--primary-color);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.print-controls button:hover {
+    background-color: #1a252f;
+}
+
+/* Resume Container */
+.resume-container {
+    max-width: 800px;
+    margin: 0 auto;
+    background: var(--resume-bg);
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+/* Header */
+header {
+    text-align: center;
+    margin-bottom: 30px;
+    border-bottom: 2px solid var(--border-color);
+    padding-bottom: 20px;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: var(--primary-color);
+    margin-bottom: 5px;
+}
+
+.role-title {
+    font-size: 1.2rem;
+    color: var(--secondary-text);
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+
+.contact-info {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
+    font-size: 0.9rem;
+    color: var(--secondary-text);
+}
+
+.contact-info a {
+    color: var(--accent-color);
+    text-decoration: none;
+}
+
+/* Sections */
+section {
+    margin-bottom: 25px;
+}
+
+h3 {
+    font-size: 1.3rem;
+    color: var(--primary-color);
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* Skills Grid */
+.skills-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 15px;
+}
+
+.skill-category h4 {
+    font-size: 1rem;
+    margin-bottom: 5px;
+    color: var(--primary-color);
+}
+
+.skill-category p {
+    font-size: 0.9rem;
+    color: var(--secondary-text);
+}
+
+/* Projects & Experience */
+.project-item, .job-item {
+    margin-bottom: 20px;
+}
+
+.project-header, .job-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+    margin-bottom: 5px;
+}
+
+.project-header h4, .job-header h4 {
+    font-size: 1.1rem;
+    color: var(--text-color);
+}
+
+.tech-stack, .dates, .company {
+    font-size: 0.9rem;
+    color: var(--secondary-text);
+    font-style: italic;
+}
+
+.project-summary {
+    margin-bottom: 8px;
+    font-style: italic;
+    color: var(--secondary-text);
+}
+
+ul {
+    list-style-position: inside;
+    margin-left: 5px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+/* Education */
+.education ul {
+    list-style: none;
+    margin: 0;
+}
+
+/* Print Styles */
+@media print {
+    body {
+        background-color: white;
+        padding: 0;
+    }
+    
+    .print-controls {
+        display: none;
+    }
+
+    .resume-container {
+        box-shadow: none;
+        max-width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    a {
+        text-decoration: none;
+        color: black;
+    }
+}

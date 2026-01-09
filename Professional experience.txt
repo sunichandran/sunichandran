@@ -1,0 +1,128 @@
+Sunitha Chandamarakshan
+Senior IT Project Manager with Cloud & HealthCare Experience|
+Emerging Backend Developer | Python & Machine Learning
+Greater Tampa Bay Area
+
+Summary
+With a robust background in IT program and project management,
+I’ve led cross-functional teams to deliver impactful, enterprise-scale
+solutions — including cloud migrations (PCF to AWS) and the rollout
+of shared Kubernetes platforms at Evernorth Health Services. My
+career so far has been defined by aligning technology strategy with
+business goals, driving innovation, and leading high-stakes initiatives
+in complex, regulated environments like healthcare.
+
+Now, I’m channeling that experience into a career pivot toward
+backend development and machine learning. I’m actively deepening
+my technical skills in Python, APIs, cloud infrastructure, and ML
+frameworks — building projects that reflect both my passion for
+clean, efficient backend systems and data-driven intelligence.
+
+With certifications in SAFe Agile, AWS, and AI from Google and MIT,
+I stay on the cutting edge of technology — blending my leadership
+experience with hands-on development. Whether architecting
+backend systems or training ML models, I thrive at the intersection of
+engineering and strategy.
+I’m especially interested in opportunities that combine my product
+mindset, system thinking, and emerging technical skills to build tools
+and platforms that scale with impact.
+
+Experience
+
+Evernorth Health Services
+Information Technology Project Management - Senior Advisor
+January 2023 - Present (3 years 1 month)
+Tampa, Florida, United States
+
+PCF Migration Project:
+- Spearheaded the migration of application patterns from PCF to AWS,
+employing diverse configurations such as EKS, Redis, MongoAtlas, and
+Kafkadirectly contributing to the technological investments for Evernorth
+- Partnered with AWS in running many experienced based acceleration (EBAs)
+for the AWS migrations resulting in reduced migration timeline by 30%
+- As part of this migration, shared kubernetes capabilities were delivered
+paving the pathway for enterprise wide adoption of kubernetes.
+API Security Platform Project:
+- Onboarded a new vendor tool (NoName) for API discovery and to gather
+continuous API telemetry.
+- Collaborated with Enterprise Architects for architecture recommendations;
+vendor management team for service agreements; project sponsors and
+stakeholders to come to conclusion on value driven outcome; infrastructure
+engineers on operational readiness of the new product.
+
+Cigna Healthcare
+Information Technology Project Management - Senior Advisor
+December 2019 - January 2023 (3 years 2 months)
+Tampa, Florida, United States
+
+RHEL,MQ and Fuse Migration Project:
+- Directed a multidisciplinary team in the strategic overhaul of Product Health,
+Focusing on Tech Debt, refactoring and architecture investment, which
+resulted in saving millions of dollars in extended licensing support.
+- Led the Linux and middleware team as a Release Train Engineer for
+enterprise wide RHEL migration (migrating from ver 6 to 7 or 8), MQ server
+and Client migrations (migrating from Ver 8 to 9) and Fuse migration (migration
+from Fuse Fabric 6.3 to Fuse 7 on openshift)
+
+Aspire Enterprise Resource Group (Volunteer):
+- Co-lead for Aspire Enterprise Resource Group - iNetwork program. An
+innovation marketplace that matches volunteers to advance innovation through
+idea prototyping and testing.
+- Pioneered the iNetwork initiative, a grassroot innovation platform for
+intrapreneurs, fostering a culture of creativity and technological advancement
+within the organization.
+
+Note: Contract Employee to Cigna between Dec 2019 - Jun 2021 before being
+absorbed as a full timer. Employee of iTech solutions at this time.
+
+Dynamic Biz Solutions
+Associate Project Manager
+August 2015 - June 2018 (2 years 11 months)
+Hartford, Connecticut Area
+
+Inquiry Tool Project:
+- Spearheaded the development of an inquiry tool for a leading steel company
+in Pittsburgh, enhancing operational efficiency by 40% through the adoption of
+Agile methodologies over traditional waterfall processes.
+- Orchestrated cross-functional teams, including developers, quality
+assurances, and business analysts, to define project scope, objectives, and
+requirements, resulting in the project's completion ahead of schedule and
+under budget.
+- Implemented risk management strategies that identified and mitigated
+project risks, issues, and dependencies, ensuring a 15% reduction in system
+downtimes and project delays.
+
+Tech Mahindra (formerly Mahindra Satyam)
+6 years 4 months
+Systems Analyst
+May 2006 - February 2009 (2 years 10 months)
+Bloomington/Normal, Illinois Area
+
+Supported the Auto Applications project of State Farm Insurance. Worked on
+PL/1, COBOL & DB2 to support the Mainframe side of the application. Worked
+on IBM Websphere & WSDL contracts to support the web services part of the
+application.
+Software Engineer
+November 2002 - May 2006 (3 years 7 months)
+Hyderabad Area, India
+Supported the conversion of three existing systems into one. Worked on
+COBOL, DB2 & JCL. Also worked on Javascript and HTML for creating State
+Farm Forms.
+
+Education
+Cornell University
+Applied Machine Learning and AI, Machine Learning · (February 2025 - June
+2025)
+
+MIT Professional Education
+Artificial Intelligence: Implications for Business Strategy, Artificial
+Intelligence · (July 2024 - October 2024)
+
+Birla Institute of Technology and Science, Pilani
+Master of Business Administration - MBA, Finance, General · (2016 - 2018)
+
+Osmania University
+Computer Science, Biochemistry, Chemistry and Computer
+Applications · (1999 - 2002)
+
+
