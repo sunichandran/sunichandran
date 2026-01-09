@@ -10,7 +10,7 @@ Result-oriented **Program Manager** transitioning into **Backend Engineering and
 ---
 
 ## 🛠 Technical Skills
-*   **Languages:** Python, SQL, [Optional: Java/C++]
+*   **Languages:** Python, SQL, COBOL, JCL, PL/1
 *   **Machine Learning:** TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, NLP, Computer Vision
 *   **Backend Development:** FastAPI, Flask, Django, REST APIs, Microservices
 *   **Data & Databases:** PostgreSQL, MongoDB, Data Visualization (Matplotlib/Seaborn)
