@@ -69,7 +69,7 @@ Result-oriented **Program Manager** transitioning into **Backend Engineering and
 *   **SAFe Advanced Scrum Master and Release train engineer**
 *   **AWS Certified Cloud Practitioner**
 *   **AWS Trainings: AWS Security Engineering, AWS Developer, Planning and Designing Databases on AWS, Generative AI Essesntials on AWS**
-*   **Microseft Certified: Azure Fundamentals, AI Fundamentals**
+*   **Microsoft Certified: Azure Fundamentals, AI Fundamentals**
 
 
 
